@@ -1,0 +1,11 @@
+I list a few directions that I would like to work on and maybe you or Renato can add some more on.
+
+  * Check, refine, or add new relational algebra operations in MTDBMS (MTCalc)
+  * Work on Apache Calcite and see the possible to add SQL extension module and prototype MT sharing
+  * Read some paper of related works and think some new ideas
+
+Please remember to add all relevant things to the SVN because this is very useful to us as a documentation. Some short comments:
+ 
+  * Refining the operators sounds good. I just realized that we are also missing a clear overview of all the operators. So if you could do that, that would clearly be a good point to start with.
+  * Good! Go ahead! :-)
+  * Yes, related work is always important. If possible, we should build on top of it instead of repeating what has already been done. Could you also put together a list of related work in a text-file (or even bib-file)? This will be very helpful once we'd like to write the paper.
