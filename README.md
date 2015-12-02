@@ -1,6 +1,6 @@
 # MTCalc Framework
 
-MTCalc is a Multi-Tenancy Database framework based on [Apache Calcite][https://calcite.incubator.apache.org/].
+MTCalc is a Multi-Tenancy Database framework based on [Apache Calcite](https://calcite.incubator.apache.org/)
 
 ## Why it works
 
